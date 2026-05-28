@@ -5,7 +5,7 @@
 ![Region](https://img.shields.io/badge/Region-Europe-orange)
 ![Category](https://img.shields.io/badge/Category-Female-ff69b4)
 
-**BC Game** and **@vantagl**, announce **BC Game Masters Female EU 1** — a Counter-Strike 2 online tournament for the women's competitive scene with a **$25,000** prize pool, taking place between **June 27 — July 26, 2026**.
+**BC Game** and **@vantagl** announce **BC Game Masters Female EU 1**, a Counter-Strike 2 online tournament for the women's competitive scene with a **$25,000** prize pool, taking place between **June 27 – July 26, 2026**.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### Stage 1 — Open Qualifiers (Best-of-3)
 
-* **Dates:** June 27 — July 19, 2026
+* **Dates:** June 27 – July 19, 2026
 * **Format:** Open Registration / Best-of-3
 * **Structure:** Four (4) qualifier weekends, with the **top 2 teams from each qualifier** advancing to the Main Event (8 teams total).
 * **Times:** All times listed in **CEST**
@@ -64,7 +64,7 @@
 
 ### Stage 2 — Main Event (GSL Groups + Double-Elimination Playoffs, Best-of-3)
 
-* **Dates:** July 20 — July 26, 2026
+* **Dates:** July 20 – July 26, 2026
 * **Teams:** 8 qualified teams
 * **Format:** Two (2) GSL Groups of 4 teams, followed by a Double-Elimination Playoff bracket. All matches Best-of-3.
 * **Times:** All times listed in **CEST**
@@ -73,27 +73,27 @@
 
 | Date | Time (CEST) | Match | Stage |
 | --- | --- | --- | --- |
-| July 20, 2026 | 18:00 | Match 33 | GSL Group 1 — 1 vs 8 |
-| July 20, 2026 | 21:15 | Match 34 | GSL Group 1 — 4 vs 5 |
-| July 21, 2026 | 18:00 | Match 35 | GSL Group 2 — 2 vs 7 |
-| July 21, 2026 | 21:15 | Match 36 | GSL Group 2 — 3 vs 6 |
-| July 22, 2026 | 18:00 | Match 37 | GSL Group 1 — Advancement Match |
-| July 22, 2026 | 21:15 | Match 38 | GSL Group 2 — Advancement Match |
-| July 23, 2026 | 18:00 | Match 39 | GSL Group 1 — Elimination Match |
-| July 23, 2026 | 21:15 | Match 40 | GSL Group 1 — Last Chance Match |
-| July 23, 2026 | 18:00 | Match 41 | GSL Group 2 — Elimination Match |
-| July 23, 2026 | 21:15 | Match 42 | GSL Group 2 — Last Chance Match |
+| July 20, 2026 | 17:00 | Match 33 | GSL Group 1 — 1 vs 8 |
+| July 20, 2026 | 20:00 | Match 34 | GSL Group 1 — 4 vs 5 |
+| July 21, 2026 | 17:00 | Match 35 | GSL Group 2 — 2 vs 7 |
+| July 21, 2026 | 20:00 | Match 36 | GSL Group 2 — 3 vs 6 |
+| July 22, 2026 | 17:00 | Match 37 | GSL Group 1 — Advancement Match |
+| July 22, 2026 | 20:00 | Match 38 | GSL Group 2 — Advancement Match |
+| July 23, 2026 | 17:00 | Match 39 | GSL Group 1 — Elimination Match |
+| July 23, 2026 | 20:00 | Match 40 | GSL Group 1 — Last Chance Match |
+| July 23, 2026 | 17:00 | Match 41 | GSL Group 2 — Elimination Match |
+| July 23, 2026 | 20:00 | Match 42 | GSL Group 2 — Last Chance Match |
 
 #### Double-Elimination Playoffs
 
 | Date | Time (CEST) | Match | Stage |
 | --- | --- | --- | --- |
-| July 24, 2026 | 18:00 | Match 43 | Winner's Bracket Semi-Final |
-| July 24, 2026 | 21:15 | Match 44 | Winner's Bracket Semi-Final |
+| July 24, 2026 | 17:00 | Match 43 | Winner's Bracket Semi-Final |
+| July 24, 2026 | 20:00 | Match 44 | Winner's Bracket Semi-Final |
 | July 25, 2026 | 12:30 | Match 45 | Lower Bracket Semi-Final |
 | July 25, 2026 | 16:00 | Match 46 | Winner's Bracket Final |
 | July 25, 2026 | 19:30 | Match 47 | Lower Bracket Final |
-| July 26, 2026 | 18:00 | Match 48 | Grand Final |
+| July 26, 2026 | 17:00 | Match 48 | Grand Final |
 
 ---
 
@@ -110,7 +110,7 @@
 
 ## Prize Pool & Distribution
 
-* **Total prize pool:** $25,000 
+* **Total prize pool:** $25,000
 
 | Place | Prize |
 | --- | --- |
