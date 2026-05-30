@@ -104,7 +104,7 @@
 * **Roster Rules:** Teams have access to a total roster count of 5 primary players, 2 substitutes, and a coach. The primary players and substitutes can be swapped between maps at will. Coaches may only play as a substitute if registered as such and verified to meet the eligibility requirements.
 * **Anti-Cheat Compliance:** Teams will be **withdrawn** from the tournament if any player is sanctioned by Valve or receives a confirmed cheating ban issued by recognized anti-cheat providers, including **Akros** and **FACEIT**.
 * **Tournament stages:** All stages are **online**.
-* **Rulebook:** [`BC Game Masters Female Season 1 Rulebook`](./BC-Game-Masters-Female-EU-1-Rulebook.pdf)
+* **Rulebook:** [`BC Game Masters Female Season 1 Rulebook`](./BC%20GAME%20MASTERS%20FEMALE%20EU%20SEASON%201%20Rulebook.pdf)
 
 ---
 
