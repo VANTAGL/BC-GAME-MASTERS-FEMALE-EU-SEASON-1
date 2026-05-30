@@ -3,7 +3,7 @@
 ![Dates](https://img.shields.io/badge/Date-Jun%2027%20%E2%80%93%20Jul%2026%2C%202026-blue)
 ![Prize Pool](https://img.shields.io/badge/Prize%20Pool-%2425%2C000%20Crypto-brightgreen)
 ![Region](https://img.shields.io/badge/Region-Europe-orange)
-![Category](https://img.shields.io/badge/Category-Female-ff69b4)
+![Category](https://img.shields.io/badge/Category-Female-000000)
 
 **BC Game** and **@vantagl** announce **BC Game Masters Female EU 1**, a Counter-Strike 2 online tournament for the women's competitive scene with a **$25,000** prize pool, taking place between **June 27 – July 26, 2026**.
 
